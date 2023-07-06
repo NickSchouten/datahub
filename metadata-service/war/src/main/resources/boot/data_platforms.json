@@ -544,5 +544,15 @@
       "type": "FILE_SYSTEM",
       "logoUrl": "/assets/platforms/gcslogo.svg"
     }
+  },
+  {
+    "urn": "urn:li:dataPlatform:ftp",
+    "aspect": {
+      "datasetNameDelimiter": "/",
+      "name": "ftp",
+      "displayName": "FTP",
+      "type": "OTHERS",
+      "logoUrl": "/assets/platforms/ftplogo.svg"
+    }
   }
 ]
